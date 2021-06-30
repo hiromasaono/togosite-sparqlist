@@ -13,6 +13,7 @@ Forked from `Ensembl transcript description`
         - Ensembl Gene ID
     - Output
         - Gene type
+- Supplementary information
 
 ## Endpoint
 
